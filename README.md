@@ -1,4 +1,5 @@
-### Hi there my name is Andrea Jackson 👋
+## Hi there my name is Andrea Jackson 👋
+### Full-Stack Software Engineer, Designer, MBA
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
