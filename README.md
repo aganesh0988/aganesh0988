@@ -17,6 +17,15 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true)
 
 
+<a target="_blank" href="https://www.linkedin.com/in/andrea-jackson1/">
+  <img alt="LinkdeIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a target="_blank" href="https://angel.co/u/andrea-jackson-13">
+  <img align="left" alt="AngelList" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg" />
+</a>
+
+
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <i class="fab fa-react"></i>
