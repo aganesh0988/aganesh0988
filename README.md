@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
-- 💾 Checkout my portfolio here!
+- 💾 Checkout my portfolio [<span style="font-size:larger;">here</span>](https://andreagjackson.com/)!
 - 🤹‍♀️ I love solving problems and learning new skills
 - 🎷 Fun fact: I play the saxaphone.
 - 💬 Ask me about ...
