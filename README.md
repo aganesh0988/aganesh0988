@@ -25,6 +25,8 @@
     />
 </head>
 
+### Connect with me on social media!
+<br/>
 <a target="_blank" href="https://www.linkedin.com/in/andrea-jackson1/">
   <img align="left" alt="LinkdeIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -33,7 +35,11 @@
   <img align="left" alt="AngelList" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg" />
 </a>
 
+<br/>
+<br/>
 
+### Languages and Frameworks
+<br/>
 <i class="fab fa-html5" style="font-size:48px;color:#f06529"></i>
 <i class="fab fa-python" style="font-size:48px;color:#306998"></i>
 <i class="fab fa-react" style="font-size:48px;color:#61DBFB"></i>
@@ -41,5 +47,7 @@
 <i class="fab fa-css3-alt" style="font-size:48px;color:#264de4"></i>
 <i class="fab fa-docker" style="font-size:48px;color:#0db7ed"></i>
 
+<br/>
+<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
