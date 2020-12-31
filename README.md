@@ -12,13 +12,15 @@
 - ✈️ I love to travel and go on adventures.
 - 📫 You can contact me at: [andreajackson1109@gmail.com](mailto:andreajackson1109@gmail.com)
 
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true)
 
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
 <a target="_blank" href="https://www.linkedin.com/in/andrea-jackson1/">
-  <img alt="LinkdeIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a target="_blank" href="https://angel.co/u/andrea-jackson-13">
@@ -26,8 +28,7 @@
 </a>
 
 
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<i class="fa fa-html5" style="font-size:48px;color:red"></i>
 
-<i class="fab fa-react"></i>
-
-:fontawesome-brands-facebook:{: .facebook } – Facebook
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
