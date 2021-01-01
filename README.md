@@ -46,8 +46,8 @@
 <i class="fab fa-docker" style="font-size:48px;color:#0db7ed"></i> -->
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=aganesh0988.aganesh0988)
