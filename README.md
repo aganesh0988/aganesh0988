@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-
+<p>
 - 💾 Checkout my portfolio [<span style="font-size:larger;">here</span>](https://andreagjackson.com/)!
 - 🤹‍♀️ I truly enjoy solving problems and learning new skills.
 - 🎷 Fun fact: I play the saxaphone.
@@ -13,7 +13,7 @@
 - 📫 You can contact me at: [andreajackson1109@gmail.com](mailto:andreajackson1109@gmail.com)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
-
+</p>
 <!-- - ⚡ Fun fact: ... -->
 
 
