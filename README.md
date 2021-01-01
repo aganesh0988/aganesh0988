@@ -12,6 +12,8 @@
 - ✈️ I love to travel and go on adventures.
 - 📫 You can contact me at: [andreajackson1109@gmail.com](mailto:andreajackson1109@gmail.com)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
+
 <!-- - ⚡ Fun fact: ... -->
 
 
@@ -60,7 +62,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/> -->
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=aganesh0988.aganesh0988)
