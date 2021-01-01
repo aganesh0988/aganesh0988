@@ -48,3 +48,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
+
+<br/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=aganesh0988.aganesh0988)
