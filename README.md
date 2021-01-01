@@ -1,9 +1,9 @@
 ## Hi there, I'm Andrea Jackson 👋
 ### Full-Stack Software Engineer, Designer, MBA
-<p align="right">
+<!-- <p align="right">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=aganesh0988.aganesh0988)
-</p>
+</p> -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,8 +14,6 @@
 - 🎷 Fun fact: I play the saxaphone.
 - ✈️ I love to travel and go on adventures.
 - 📫 You can contact me at: [andreajackson1109@gmail.com](mailto:andreajackson1109@gmail.com)
-
-<br/>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/> -->
 <!-- - ⚡ Fun fact: ... -->
@@ -80,4 +78,9 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
+
+<p align="right">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=aganesh0988.aganesh0988)
+</p>
 </p>
