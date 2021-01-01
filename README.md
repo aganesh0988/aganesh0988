@@ -1,19 +1,23 @@
 ## Hi there, I'm Andrea Jackson 👋
 ### Full-Stack Software Engineer, Designer, MBA
+<p align="right">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=aganesh0988.aganesh0988)
+</p>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-<p>
 - 💾 Checkout my portfolio [<span style="font-size:larger;">here</span>](https://andreagjackson.com/)!
 - 🤹‍♀️ I truly enjoy solving problems and learning new skills.
 - 🎷 Fun fact: I play the saxaphone.
 - ✈️ I love to travel and go on adventures.
 - 📫 You can contact me at: [andreajackson1109@gmail.com](mailto:andreajackson1109@gmail.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
-</p>
+<br/>
+
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/> -->
 <!-- - ⚡ Fun fact: ... -->
 
 
@@ -71,9 +75,7 @@
 
 <i class="fab fa-docker" style="font-size:48px;color:#0db7ed"></i> -->
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/> -->
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=aganesh0988.aganesh0988)
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
+</p>
