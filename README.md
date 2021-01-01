@@ -26,7 +26,7 @@
 </head>
 
 ### Connect with me on social media!
-<a target="_blank" href="https://www.linkedin.com/in/andrea-jackson1/">
+<a target="_blank" style="margin-top: 250px;" href="https://www.linkedin.com/in/andrea-jackson1/">
   <img align="left" alt="LinkdeIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
