@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ... -->
 
 - 💾 Checkout my portfolio [<span style="font-size:larger;">here</span>](https://andreagjackson.com/)!
-- 🤹‍♀️ I enjoy solving problems and learning new skills.
+- 🤹‍♀️ I truly enjoy solving problems and learning new skills.
 - 🎷 Fun fact: I play the saxaphone.
 - ✈️ I love to travel and go on adventures.
 - 📫 You can contact me at: [andreajackson1109@gmail.com](mailto:andreajackson1109@gmail.com)
