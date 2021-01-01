@@ -39,7 +39,6 @@
 </a>
 
 <br/>
-<br/>
 
 ### Languages and Frameworks
 <p>
@@ -63,24 +62,7 @@
 <br/>
 <br/>
 
-<!-- <i class="fab fa-html5" style="font-size:48px;color:#f06529"></i>
-
-<i class="fab fa-python" style="font-size:48px;color:#306998"></i>
-
-<i class="fab fa-react" style="font-size:48px;color:#61DBFB"></i>
-
-<i class="fab fa-js-square" style="font-size:48px;color:#F0DB4F"></i>
-
-<i class="fab fa-css3-alt" style="font-size:48px;color:#264de4"></i>
-
-<i class="fab fa-docker" style="font-size:48px;color:#0db7ed"></i> -->
-
-<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aganesh0988&show_icons=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/>
 
-<p align="right">
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=aganesh0988.aganesh0988)
-</p>
-</p>
