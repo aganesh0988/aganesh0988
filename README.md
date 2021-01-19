@@ -12,7 +12,7 @@
 - 💾 Checkout my portfolio [<span style="font-size:larger;">here</span>](https://andreagjackson.com/)!
 - 🤹‍♀️ I truly enjoy solving problems and learning new skills.
 - 🎷 Fun fact: I play the saxaphone.
-- ✈️ I love to travel and go on adventures.
+- ✈️ I love traveling and going on adventures.
 - 📫 You can contact me at: [andreajackson1109@gmail.com](mailto:andreajackson1109@gmail.com)
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aganesh0988"/> -->
