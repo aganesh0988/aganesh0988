@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💾 Checkout my portfolio [<span style="font-size:larger;">here</span>](https://andreagjackson.com/)!
+- 💾 Checkout my portfolio [**here**](https://andreagjackson.com/)!
 - 🤹‍♀️ I truly enjoy solving problems and learning new skills.
 - 🎷 Fun fact: I play the saxaphone.
 - ✈️ I love traveling and going on adventures.
